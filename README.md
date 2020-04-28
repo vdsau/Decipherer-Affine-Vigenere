@@ -2,6 +2,8 @@
 20.08.2019
 by @vdsau
 
+Additional project for researching POSIX-standart.
+
 Implemented in C++ for Linux OS, using POSIX-standart's multithreading (pthread), 
 and represented by CLI.
 
