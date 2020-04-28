@@ -5,6 +5,10 @@ by @vdsau
 Implemented in C++ for Linux OS, using POSIX-standart's multithreading (pthread), 
 and represented by CLI.
 
+Compiler - GCC 7.3.0 (Ubuntu 7.3.0-27ubuntu~18.04)
+Platform - x86_64
+Linux Ver. - Linux Lite 4.2
+
 Working only with txt files.
 
 Command syntax:
